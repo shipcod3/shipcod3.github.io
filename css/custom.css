@@ -42,7 +42,7 @@ body {
 	position: relative;
 	display: block;
 }
-.responsive {
-width: 100%;
+.responsive{
+width: 60%;
 height: auto;
 }
