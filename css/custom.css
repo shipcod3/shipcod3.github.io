@@ -42,3 +42,7 @@ body {
 	position: relative;
 	display: block;
 }
+.responsive {
+width: 100%;
+height: auto;
+}
