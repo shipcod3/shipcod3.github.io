@@ -42,7 +42,26 @@ body {
 	position: relative;
 	display: block;
 }
+
 .responsive{
 width: 60%;
 height: auto;
 }
+
+.typed-cursor {
+		color: darkgreen;
+        opacity: 1;
+        animation: blink .7s infinite;
+    }
+
+    @keyframes blink {
+        0% {
+            opacity: 1;
+        }
+        50% {
+            opacity: 0;
+        }
+        100% {
+            opacity: 1;
+        }
+    }
